@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1752916158
+default_env.tres::Environment/Environment::-1::1744386698::0::1::::<><><>0<>0<><>::
+GridMap_Demo.tscn::PackedScene/PackedScene::-1::1744386698::0::1::::<><><>0<>0<><>::res://MeshLibrary.tres
+icon.png::CompressedTexture2D/CompressedTexture2D::8265016324466452886::1744386698::1752904159::1::::<><><>0<>0<>4d8b3bd700cb1f57ae73555631eaf09e<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+MeshLibrary.tres::MeshLibrary/MeshLibrary::-1::1744386698::0::1::::<><><>0<>0<><>::res://assets/dae/golf.material
+MeshLibrary_Source.tscn::PackedScene/PackedScene::-1::1744386698::0::1::::<><><>0<>0<><>::res://assets/dae/course_parts.dae
+README.md::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
+::res://assets/::1752904160
+texture.png::CompressedTexture2D/CompressedTexture2D::1195763370871427649::1744386698::1752904160::1::::<><><>0<>0<>61d002446003e6cd91ff0c015b591924<>res://.godot/imported/texture.png-37d4f2cf5563ef4871bbbd6f14421d67.s3tc.ctex::
+::res://assets/dae/::1752904160
+course_parts1.dae::PackedScene/PackedScene::3548707802068862832::1744386698::1752904159::1::::<><><>0<>0<>b99a1e9439dcb32554ed12c2396f3507<>res://.godot/imported/course_parts1.dae-eda5ac756b48ebebfb1a6673cc545b23.scn::uid://rbibvrght8yf::::res://assets/texture.png
+course_parts.dae::PackedScene/PackedScene::5587117636718587578::1744386698::1752904159::1::::<><><>0<>0<>49a57489861fdc7ce0a6a843de02633b<>res://.godot/imported/course_parts.dae-4da1195347aecc2f52514b442543c573.scn::uid://rbibvrght8yf::::res://assets/texture.png
+course_test.dae::PackedScene/PackedScene::551946928453771529::1744386698::1752904159::1::::<><><>0<>0<>fc10ff7e3b7b3ffafabc9dfd15705c6a<>res://.godot/imported/course_test.dae-6a7601aea0fefbfd5e96923a1a43a1eb.scn::uid://rbibvrght8yf::::res://assets/texture.png
+golf.material::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::res://assets/texture.png
+golf_windmill.dae::PackedScene/PackedScene::6656691365974928291::1744386698::1752904160::1::::<><><>0<>0<>111ca379da98500da50422cd7684e476<>res://.godot/imported/golf_windmill.dae-9f1084a0af58931667ac2e93b3e61eed.scn::uid://rbibvrght8yf::::res://assets/texture.png
